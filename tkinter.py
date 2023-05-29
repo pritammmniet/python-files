@@ -21,7 +21,7 @@ aise toh aur bhi hai but abhi yahi janegnge aur bhi do chaar k baare mein dekhte
 '''dekho.... u are right , look at these two lines of code
 entry=tk.Entry(root)
 data=entry.get() 
-here i m saying that Entry is a class that has been called and get is and instance method'''
+here i m saying that Entry is a class that has been called and get is an instance method'''
 
 '''let's learn something about \n
 yeh ek new line append karta hai aur python k print mein ant mein by default laga hota hai ....maano ki print("ram") nahi balki print("ram\n")
