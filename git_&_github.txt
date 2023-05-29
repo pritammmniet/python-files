@@ -1,0 +1,17 @@
+source---https://youtu.be/YbX_5FTOgL8
+
+short defn of git:-
+It is an open-source software that tracks changes in the source code during software development and
+allows multiple developers to collaborate on a project//basically yeh ek software hai jo help karta hai
+programmers across the world to work together on a project in a very easy manner...
+
+short defn of github:-
+GitHub is a web-based platform that uses Git for version control and collaborative software development
+
+git ;_
+main codebase ke liye management tool
+
+
+ GitHub another defn_;;
+main code base ka management same GIT waali functionalities bas ye
+tool website ke roop me milegi.
