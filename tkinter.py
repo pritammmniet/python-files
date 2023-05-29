@@ -28,13 +28,14 @@ yeh ek new line append karta hai aur python k print mein ant mein by default lag
 ho'''
 
 
-'''tk.Entry aur tk.Text() mein itna hi fark hai ki Entry() use karte hai user se input lene k liye in one 
+'''tk.Entry() aur tk.Text() mein itna hi fark hai ki Entry() use karte hai user se input lene k liye in  
 single line but wahin pr Text() use karte hai multiline mein user se input lene k liye ...abb sawal hai ki user ne input dono hi case mein de diya 
 ....lekin uska karna kya hai ..toh usko store karne aur manipulate karne k liye kuch methods hai  like:--
 get()
 insert()
 delete() 
-abb karte hai kaise use for Entry() and Text() ...dekhte hai 
+abb karte hai  kaise inka  use for Entry() and Text() ...dekhte hai 
+
 '''
 
 '''
@@ -60,7 +61,6 @@ window.mainloop()
 
 here aap dekhe  tk.SUNKEN ek tk module mein defined ek variable hai jiska naam hai SUNKEN aur yeh tk.SUNKEN kaam aata widgets ko border dene 
 mein
-
 '''
 
 
